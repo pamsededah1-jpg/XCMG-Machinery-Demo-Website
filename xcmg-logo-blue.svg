@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 52" role="img" aria-label="XCMG Logo">
+  <g transform="translate(0,2)">
+    <rect x="1" y="1" width="46" height="46" rx="8" ry="8" fill="none" stroke="#1A5BB0" stroke-width="3"/>
+    <polygon points="24,8 38,16 38,32 24,40 10,32 10,16" fill="none" stroke="#1A5BB0" stroke-width="2.5"/>
+    <polygon points="24,14 35,28 13,28" fill="#1A5BB0"/>
+    <polygon points="24,34 35,20 13,20" fill="none" stroke="#1A5BB0" stroke-width="1.5"/>
+  </g>
+  <text x="58" y="38" 
+    font-family="Arial Black, Arial, sans-serif" 
+    font-weight="900" 
+    font-size="34" 
+    fill="#1A5BB0" 
+    letter-spacing="-1">XCMG</text>
+</svg>
